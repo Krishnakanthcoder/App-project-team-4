@@ -1,0 +1,6 @@
+{
+  "name": "Legal Guardian AI",
+  "description": "Smart Legal Awareness & Complaint Assistance System for first-level legal education, issue categorization, and next-step guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
